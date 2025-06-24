@@ -24,3 +24,7 @@ VirusTotal
 WHOIS Lookup (whois.domaintools.com)
 
 
+
+Note - For reading the report please download the pdf file 
+
+
