@@ -14,9 +14,13 @@ Share findings for cybersecurity awareness and practice.
 🔧 Tools Used
 
 PhishTool
+
 MXToolbox
+
 URLScan.io
+
 VirusTotal
+
 WHOIS Lookup (whois.domaintools.com)
 
 
