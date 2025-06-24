@@ -7,25 +7,16 @@ This project focuses on analyzing real-world phishing emails to understand attac
 🎯 Goals
 
 Analyze real phishing emails (headers and content)
-
-Use tools to identify threats
-
-Extract and document IOCs
-
-Share findings for cybersecurity awareness and practice
+Use tools to identify threats.
+Extract and document IOCs.
+Share findings for cybersecurity awareness and practice.
 
 🔧 Tools Used
 
 PhishTool
-
 MXToolbox
-
 URLScan.io
-
 VirusTotal
-
-Google Header Analyzer
-
-AbuseIPDB
-
 WHOIS Lookup (whois.domaintools.com)
+
+
