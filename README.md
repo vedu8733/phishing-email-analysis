@@ -1,2 +1,31 @@
-# phishing-email-analysis
-A hands-on phishing email analysis project focused on investigating fake emails, inspecting headers, checking SPF/DKIM/DMARC, and identifying malicious links. Includes case studies with IOCs and tool-based analysis using VirusTotal, MXToolbox, and URLScan.io.
+🛡️ Phishing Email Analysis – Hands-On Cybersecurity Project
+
+📌 Project Overview
+
+This project focuses on analyzing real-world phishing emails to understand attacker methods, identify red flags, and extract IOCs (Indicators of Compromise). It provides practical experience using free tools and simulates the type of work done by SOC analysts.
+
+🎯 Goals
+
+Analyze real phishing emails (headers and content)
+
+Use tools to identify threats
+
+Extract and document IOCs
+
+Share findings for cybersecurity awareness and practice
+
+🔧 Tools Used
+
+PhishTool
+
+MXToolbox
+
+URLScan.io
+
+VirusTotal
+
+Google Header Analyzer
+
+AbuseIPDB
+
+WHOIS Lookup (whois.domaintools.com)
